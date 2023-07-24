@@ -6,6 +6,7 @@ A starter repo setup to build [Next.js](https://nextjs.org/docs) applications us
 
 - [Next.js](https://nextjs.org/docs)
 - [Drizzle ORM](https://orm.drizzle.team/docs/quick-start) setup for [Turso DB](https://docs.turso.tech/)
+- [Clerk Auth](https://clerk.com/docs/nextjs/get-started-with-nextjs)
 - [Shadcn UI](https://ui.shadcn.com/docs)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
 
