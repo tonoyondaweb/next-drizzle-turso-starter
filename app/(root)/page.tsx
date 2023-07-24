@@ -39,6 +39,14 @@ export default function Home() {
           <ul>
             <Link
               className="underline transition-colors hover:text-muted-foreground"
+              href="https://clerk.com/docs/nextjs/get-started-with-nextjs"
+            >
+              clerk
+            </Link>
+          </ul>
+          <ul>
+            <Link
+              className="underline transition-colors hover:text-muted-foreground"
               href="https://ui.shadcn.com/docs"
             >
               shadcn-ui
@@ -58,6 +66,14 @@ export default function Home() {
               href="https://docs.turso.tech/"
             >
               turso
+            </Link>
+          </ul>
+          <ul>
+            <Link
+              className="underline transition-colors hover:text-muted-foreground"
+              href="https://tailwindcss.com/docs/installation"
+            >
+              tailwindcss
             </Link>
           </ul>
         </li>
